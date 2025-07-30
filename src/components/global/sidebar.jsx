@@ -81,6 +81,7 @@ function Sidebar() {
                         <li className="flex p-1.5  gap-2 text-sl font-medium bg-gray-200 rounded-lg hover:bg-gray-300 ">
                             <span><i class="bi bi-house"></i></span>
                             <h5>Dashboard</h5>
+                            
                         </li>
                         <li className="flex p-1.5  gap-2 text-sl font-medium bg-gray-200 rounded-lg hover:bg-gray-300 ">
                             <span><i class="bi bi-house"></i></span>
