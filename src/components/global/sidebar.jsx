@@ -1,10 +1,10 @@
 function Sidebar() {
     return <>
-        <div className="flex flex-col justify-start h-screen bg-gray-100 w-82">
+        <div className="flex flex-col justify-start h-screen bg-gray-100">
             <div className="flex border-b h-14">
                 <div className="p-2 bg-gray-600 hover:bg-gray-800 w-1/6 flex item-center justify-center m-2 rounded-lg"><i className="bi bi-basket-fill text-white cursor-pointer"></i></div>
                 <div className="flex flex-col p-1 justify-center">
-                    <div className="text-lg font-bold">TEMAAM PRRACTICE</div>
+                    <div className="text-xs font-bold">TEMAAM PRRACTICE</div>
                     <div className="text-xs text-gray-600 ">Admin Panel</div>
                 </div>
             </div>
@@ -81,7 +81,7 @@ function Sidebar() {
                         <li className="flex p-1.5  gap-2 text-sl font-medium bg-gray-200 rounded-lg hover:bg-gray-300 ">
                             <span><i class="bi bi-house"></i></span>
                             <h5>Dashboard</h5>
-                            
+
                         </li>
                         <li className="flex p-1.5  gap-2 text-sl font-medium bg-gray-200 rounded-lg hover:bg-gray-300 ">
                             <span><i class="bi bi-house"></i></span>
