@@ -1,6 +1,6 @@
 function Footer() {
     return <>
-        <div className=" w-full bottom-0 right-0">
+        <div className=" w-full bottom-0 right-0 sticky">
             <ul className="flex justify-between w-full items-center gap-4 p-4 bg-gray-200">
                 <li className="bg-gray-300 p-2 rounded-lg text-sl w-full font-medium">
                     Hello Main
