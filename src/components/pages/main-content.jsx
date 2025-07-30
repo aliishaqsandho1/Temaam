@@ -8,4 +8,3 @@ function MainContent() {
   );
 }
 export default MainContent;
-import React from 'react';
