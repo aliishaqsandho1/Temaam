@@ -1,7 +1,7 @@
 function Sidebar() {
     return <>
         <div className="flex flex-col justify-start h-screen bg-gray-100">
-            <div className="flex border-b h-14">
+            <div className="flex border-b border-b-gray-300 h-14">
                 <div className="p-2 bg-gray-600 hover:bg-gray-800 w-1/6 flex item-center justify-center m-2 rounded-lg"><i className="bi bi-basket-fill text-white cursor-pointer"></i></div>
                 <div className="flex flex-col p-1 justify-center">
                     <div className="text-xs font-bold">TEMAAM PRRACTICE</div>

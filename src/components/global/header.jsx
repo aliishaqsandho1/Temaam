@@ -1,6 +1,6 @@
 function Header() {
    return <>
-      <nav className="bg-gray-200 flex items-center justify-between border-b border-l w-full h-14 p-2 sticky top-0">
+      <nav className="bg-gray-200 flex items-center justify-between border-b border-b-gray-300 border-l-gray-300 border-l w-full h-14 p-2 sticky top-0">
          <div className="flex gap-2 cursor-pointer">
             <span><i class="bi bi-house"></i></span>
             <span>Dashboard</span>
